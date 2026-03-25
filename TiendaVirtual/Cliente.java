@@ -1,4 +1,3 @@
-package Tienda-Virtual.TIENDA-VIRTUAL;
 
 public class Cliente {
     private String nombre; //nombre completo cliente
